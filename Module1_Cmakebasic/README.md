@@ -6,6 +6,12 @@ This repository is created for learning Cmake purpose
 - cmake --version
 # Uninstall Cmake
 - sudo apt purge cmake
+# Cmake project
+There are 3 commands is required in CMakeLists
+- cmake_minimum_required()  specifying a minimum CMake version 
+- project() set the project name
+- add_executable()  tells CMake to create an executable using the specified source code files.
+
 # Requirements to run Cmake 
 - CmakeList.txt file
 - Any directory to store the generated build files

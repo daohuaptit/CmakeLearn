@@ -84,3 +84,13 @@ The variable is created and modified in function scope *are not accessible from 
 In Cmake function **does not return value**
 But you can modified the varible's value that pass to function by using PARENT_SCOPE
 Example: set(modified_name "Dao Hua" PARENT_SCOPE)
+
+### Macro
+1. What is macro
+Macro is a reusable block of CMake code that can take arguments, perform some actions or computations, and return results
+2. How to define a macro
+macro in cmake look like cmake function but they work in a completely different fashion 
+macro(<function_name> <function_args>)
+    <commands>
+endmacro()
+3. 
