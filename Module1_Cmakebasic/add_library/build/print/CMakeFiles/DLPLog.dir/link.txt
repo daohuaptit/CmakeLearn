@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDLPLog.a  CMakeFiles/DLPLog.dir/dlp_log.c.o CMakeFiles/DLPLog.dir/dlp_time.c.o
+/usr/bin/ranlib libDLPLog.a

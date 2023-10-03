@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../CJSON/cJSON.h
+stddef.h
+-
+
+../include/global.h
+
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/print/print.c
+stdio.h
+-
+cJSON.h
+-
+print.h
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/print/print.h
+global.h
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/print/global.h
+
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/print/print.h
+

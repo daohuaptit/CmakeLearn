@@ -1,0 +1,9 @@
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CMakeFiles/rebuild_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CMakeFiles/edit_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CMakeFiles/Test.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/print/CMakeFiles/rebuild_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/print/CMakeFiles/edit_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/print/CMakeFiles/DLPLog.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CJSON/CMakeFiles/rebuild_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CJSON/CMakeFiles/edit_cache.dir
+/home/lancs/DataLossPrevention/Cmaketutor/CmakeLearn/Module1_Cmakebasic/add_library/build/CJSON/CMakeFiles/cJSON.dir

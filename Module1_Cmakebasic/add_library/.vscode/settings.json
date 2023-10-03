@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.inc": "php",
+        "print.h": "c",
+        "shared.h": "c"
+    }
+}

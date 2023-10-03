@@ -14,7 +14,9 @@ int main ()
     cin >> n2;
     float resadd = add_num(n1,n2);
     float resdiv= div_num(n1,n2);
-    print("Add",resadd);
-    print("Div",resdiv);
+    #ifdef PRINT
+         print("Add",resadd);
+         print("Div",resdiv);
+    #endif
     return 0; 
 }

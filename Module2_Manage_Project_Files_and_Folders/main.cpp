@@ -1,7 +1,7 @@
 #include <iostream>
-#include "add.h"
-#include "div.h"
-#include "print.h"
+// #include "add.h"
+// #include "div.h"
+// #include "print.h"
 using namespace std;
 
 
